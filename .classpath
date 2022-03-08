@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="eureka-server/src/main/java"/>
+	<classpathentry kind="src" path="eureka-server/src/test/java"/>
+	<classpathentry kind="src" path="payroll-api/src/main/java"/>
+	<classpathentry kind="src" path="payroll-api/src/test/java"/>
+	<classpathentry kind="src" path="user-api/src/main/java"/>
+	<classpathentry kind="src" path="user-api/src/test/java"/>
+	<classpathentry kind="lib" path="eureka-server/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="payroll-api/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="user-api/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="eureka-server/target/classes"/>
+</classpath>

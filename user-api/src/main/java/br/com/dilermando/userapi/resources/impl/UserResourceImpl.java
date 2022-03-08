@@ -1,6 +1,5 @@
 package br.com.dilermando.userapi.resources.impl;
 
-
 import br.com.dilermando.userapi.domain.User;
 import br.com.dilermando.userapi.resources.UserResource;
 import br.com.dilermando.userapi.services.UserService;

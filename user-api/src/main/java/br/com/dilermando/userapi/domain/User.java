@@ -1,5 +1,6 @@
 package br.com.dilermando.userapi.domain;
 
+
 import lombok.*;
 
 import javax.persistence.Entity;

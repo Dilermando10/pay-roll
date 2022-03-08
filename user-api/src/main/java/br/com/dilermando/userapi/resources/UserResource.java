@@ -1,7 +1,5 @@
 package br.com.dilermando.userapi.resources;
 
-
-
 import br.com.dilermando.userapi.domain.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
